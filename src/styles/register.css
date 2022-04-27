@@ -1,0 +1,10 @@
+.dogsMap {
+    display: flex;
+    flex-wrap: wrap;
+    align-self: center;
+}
+
+.dogItem {
+    flex: 1;
+    margin-top: 50px;
+}
